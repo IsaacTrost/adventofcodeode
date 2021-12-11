@@ -30,7 +30,7 @@ class fish:
             if num==3:
                 self.three+=1
             if num==2:
-                self.t+=1
+                self.two+=1
             if num==1:
                 self.one+=1
             if num==0:
